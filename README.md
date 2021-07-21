@@ -1,7 +1,7 @@
 # How install Wordpress with LAMP on Ubuntu 20.04
 
-These Documentation is created with based on this archicles
-*https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04-pt
+These Documentation is created with based on this archicle
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-18-04-pt
 
 ### 1 Create a Mysql database for Wordpress
 access your Mysql in root acount with this command:
