@@ -1,4 +1,4 @@
-# How install Wordpres with LAMP on Ubuntu 20.04
+# How install Wordpress with LAMP on Ubuntu 20.04
 
 ### 1 Create a Mysql database for Wordpress
 access your Mysql in root acount with this command:
